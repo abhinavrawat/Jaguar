@@ -1,0 +1,16 @@
+C:\New folder\Branch\Src\Eventrust.Repository\bin\Debug\Eventrust.Repository.dll
+C:\New folder\Branch\Src\Eventrust.Repository\bin\Debug\Eventrust.Repository.pdb
+C:\New folder\Branch\Src\Eventrust.Repository\bin\Debug\Eventrust.Data.dll
+C:\New folder\Branch\Src\Eventrust.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\New folder\Branch\Src\Eventrust.Repository\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\New folder\Branch\Src\Eventrust.Repository\bin\Debug\Microsoft.Practices.Unity.dll
+C:\New folder\Branch\Src\Eventrust.Repository\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\New folder\Branch\Src\Eventrust.Repository\bin\Debug\Eventrust.Data.pdb
+C:\New folder\Branch\Src\Eventrust.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\New folder\Branch\Src\Eventrust.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\New folder\Branch\Src\Eventrust.Repository\bin\Debug\Microsoft.Practices.Unity.xml
+C:\New folder\Branch\Src\Eventrust.Repository\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\New folder\Branch\Src\Eventrust.Repository\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\New folder\Branch\Src\Eventrust.Repository\obj\Debug\Eventrust.Repository.csprojResolveAssemblyReference.cache
+C:\New folder\Branch\Src\Eventrust.Repository\obj\Debug\Eventrust.Repository.dll
+C:\New folder\Branch\Src\Eventrust.Repository\obj\Debug\Eventrust.Repository.pdb

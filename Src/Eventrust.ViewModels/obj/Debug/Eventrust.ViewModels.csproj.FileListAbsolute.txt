@@ -1,0 +1,4 @@
+C:\New folder\Branch\Src\Eventrust.ViewModels\bin\Debug\Eventrust.ViewModels.dll
+C:\New folder\Branch\Src\Eventrust.ViewModels\bin\Debug\Eventrust.ViewModels.pdb
+C:\New folder\Branch\Src\Eventrust.ViewModels\obj\Debug\Eventrust.ViewModels.dll
+C:\New folder\Branch\Src\Eventrust.ViewModels\obj\Debug\Eventrust.ViewModels.pdb

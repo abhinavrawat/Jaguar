@@ -1,0 +1,4 @@
+C:\New folder\Branch\Src\Eventrust.Api\bin\Debug\Eventrust.Api.dll
+C:\New folder\Branch\Src\Eventrust.Api\bin\Debug\Eventrust.Api.pdb
+C:\New folder\Branch\Src\Eventrust.Api\obj\Debug\Eventrust.Api.dll
+C:\New folder\Branch\Src\Eventrust.Api\obj\Debug\Eventrust.Api.pdb

@@ -1,0 +1,4 @@
+C:\New folder\Branch\Src\Eventrust.Context\bin\Debug\Eventrust.Context.dll
+C:\New folder\Branch\Src\Eventrust.Context\bin\Debug\Eventrust.Context.pdb
+C:\New folder\Branch\Src\Eventrust.Context\obj\Debug\Eventrust.Context.dll
+C:\New folder\Branch\Src\Eventrust.Context\obj\Debug\Eventrust.Context.pdb

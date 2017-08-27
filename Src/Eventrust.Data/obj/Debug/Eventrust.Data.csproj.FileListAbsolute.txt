@@ -1,0 +1,4 @@
+C:\New folder\Branch\Src\Eventrust.Data\bin\Debug\Eventrust.Data.dll
+C:\New folder\Branch\Src\Eventrust.Data\bin\Debug\Eventrust.Data.pdb
+C:\New folder\Branch\Src\Eventrust.Data\obj\Debug\Eventrust.Data.dll
+C:\New folder\Branch\Src\Eventrust.Data\obj\Debug\Eventrust.Data.pdb
